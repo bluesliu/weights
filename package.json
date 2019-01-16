@@ -1,0 +1,21 @@
+{
+  "name": "weights",
+  "version": "0.0.1",
+  "description": "权重",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weights"
+  ],
+  "author": "blues",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluesliu/weights.git"
+  },
+  "dependencies": {
+    "weights": "latest"
+  }
+}
